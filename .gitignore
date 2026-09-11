@@ -1,0 +1,14 @@
+# Java / IntelliJ IDEA
+out/
+*.class
+.idea/workspace.xml
+.idea/shelf/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Third-party PDFs opened by menu 5 and 6 (not redistributed, see README)
+test.pdf
+answer.pdf
