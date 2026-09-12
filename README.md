@@ -39,6 +39,3 @@ chinese-learning-app/
 
 `Main.java` 有一行沒用到的 `import org.junit.Test;`（JUnit 4），`A.iml` 會到本機 Maven 倉庫找 JUnit 4.13.1。如果 IntelliJ 找不到，在該行按 Alt+Enter 加入 JUnit 4 即可。
 
-## 說明
-
-選單 5、6 會用系統預設程式開啟專案根目錄的 `test.pdf`、`answer.pdf`。這兩份 PDF 是他人製作的資料，所以沒有放進 repo；要測試時放入任意 PDF 即可。
